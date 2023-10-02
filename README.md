@@ -57,4 +57,4 @@ $ rm /home/super-{Pankov.E.R}/test_file.txt
 [Скриншот 5 - Команды в терминале для шага номер-7]
 ![Скриншот 5 - Команды в терминале ](https://imgur.com/a/7elzVhZ)
 [Скриншот 6 - Команды в терминале для шага номер-8]
-![Скриншот 6 - Команды в терминале ](https://imgur.com/a/lEZhesc)
+![Скриншот 6 - Команды в терминале ]([https://imgur.com/a/lEZhesc](https://imgur.com/a/lEZhesc)https://imgur.com/a/lEZhesc)
